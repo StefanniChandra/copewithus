@@ -1,0 +1,306 @@
+*{font-family: times new roman;}
+* {text-align: center;}
+
+body{
+    margin: 0;
+    padding: 0;}
+
+/*Header & Nav*/
+	gap1{
+	    width: 3%;
+	    height: 70px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		border: 2px solid black; 
+	    border-color: #141318;
+		border-right:transparent;}
+
+
+	nav1{
+	    width: 61%;
+	    height: 70px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: left;
+	    align-items: center; 
+	    font-size: 30px;
+	    border: 2px solid black; 
+	    border-color: #141318;
+		border-right:transparent;
+		border-left: transparent;}
+
+	gap2{
+	    width: 1%;
+	    height: 70px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		border: 2px solid black; 
+	    border-color: #141318;
+		border-right:transparent;}
+
+	nav2{
+	    width: 11%;
+	    height: 70px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: left;
+	    align-items: center;
+	    font-size: 21px; 
+	   	border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;
+	    border-left: transparent;}
+
+	gap3{
+	    width: 1%;
+	    height: 70px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		border: 2px solid black; 
+	    border-color: #141318;
+		border-right:transparent;}
+
+	nav3{
+	    width: 11%;
+	    height: 70px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: left;
+	    align-items: center;
+	    font-size: 21px; 
+	   	border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;
+	    border-left: transparent;}
+
+	gap4{
+	    width: 1%;
+	    height: 70px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		border: 2px solid black; 
+	    border-color: #141318;
+		border-right:transparent;}
+
+	nav4{
+	    width: 8%;
+	    height: 70px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: left;
+	    align-items: center;
+	    font-size: 21px; 
+	   	border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;
+	    border-left: transparent;}
+
+	gap5{
+	    width: 3%;
+	    height: 70px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		border: 2px solid black; 
+	    border-color: #141318;
+		border-left:transparent;}
+
+/*TitleImage*/
+	sh1{
+	    width: 0%;
+	    height: 620px;
+	    background: #2A4337;
+	    color: #141318;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    font-size: 20px;
+		border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;
+	    border-top: transparent;}
+
+	titleimage{
+	    width: 100%;
+	    height: 620px;
+	    background: #2A4337;
+	    color: #141318;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    font-size: 19px;
+		border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;
+	    border-top: transparent;
+	    border-left: transparent;}
+
+	sh2{
+	    width: 0%;
+	    height:620px;
+	    background: #2A4337;
+	    color: #141318;
+	    display: flex;
+	    justify-content: center;
+	    align-items: top;
+	    font-size: 18px;
+		border: 2px solid black; 
+	    border-color: #141318;
+	    border-left: transparent;
+	    border-top: transparent;}
+
+/*Back Info Title*/
+	backinfotitle{
+	    width: 100%;
+	    height: 70px;
+	    background: #DFDBD8;
+	    color: #141318;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    font-size: 24px;
+		border: 2px solid black; 
+	    border-color: #141318;
+	    border-bottom: transparent;}
+
+/*Back Info*/
+	gapbackinfo1{
+	    width: 3%;
+	    height: 325px;
+	    background: #DFDBD8;
+	    color: #141318;
+	    display: flex;
+	    justify-content: center;
+	    align-items: top;
+	    font-size: 22px;
+		border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;
+	    border-top: transparent;
+	    border-bottom: transparent;}
+
+	backinfo{
+	    width: 94%;
+	    height: 325px;
+	    background: #DFDBD8;
+	    color: #141318;
+	    display: flex;
+	    justify-content: center;
+	    align-items: top;
+	    font-size: 21px;}
+
+	gapbackinfo2{
+	    width: 3%;
+	    height: 325px;
+	    background: #DFDBD8;
+	    color: #141318;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    font-size: 19px;
+		border: 2px solid black; 
+	    border-color: #141318;
+	    border-left: transparent;
+	    border-top: transparent;
+	    border-bottom: transparent;}
+
+/*Footer*/
+	footergap1{
+	    width: 3%;
+	    height: 55px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		font-size: 23px;
+	    border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;}
+
+	footertitle{
+	    width: 15%;
+	    height: 55px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: left;
+	    align-items: center;
+		font-size: 25px;
+	    border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;
+	    border-left: transparent;}
+
+	footerabout{
+	    width: 10%;
+	    height: 55px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		font-size: 23px;
+	    border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;
+		border-left: transparent;}
+
+	footerproduct{
+	    width: 10%;
+	    height: 55px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		font-size: 23px;
+	    border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;
+		border-left: transparent;}
+
+	footersupport{
+	    width: 10%;
+	    height: 55px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		font-size: 23px;
+	    border: 2px solid black; 
+	    border-color: #141318;
+	    border-right: transparent;
+		border-left: transparent;}
+
+	footergap2{
+	    width: 52%;
+	    height: 55px;
+	    background: #2A4337;
+	    color: #EFEEED;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		font-size: 23px;
+	    border: 2px solid black; 
+	    border-color: #141318;
+		border-left: transparent;}
